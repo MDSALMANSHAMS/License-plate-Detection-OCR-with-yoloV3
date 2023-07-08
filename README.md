@@ -4,7 +4,7 @@
 [![Watch the video](https://img.youtube.com/vi/PZqE2KKki-4/0.jpg)](https://youtu.be/PZqE2KKki-4)
 
 ## Introduction
-First, the model will detect the area where the License plate is present and then it will print the text present in the License plate Image using EasyOCR.
+First, the model will detect the area where the License plate is present and then it will print the text present in the License plate Image using EasyOCR library.
 
 ## 🔨 Environment
  
