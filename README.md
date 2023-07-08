@@ -5,4 +5,4 @@ https://youtu.be/PZqE2KKki-4
 First, the model will detect the area where the License plate is present and then it will print the text present in the License plate Image using EasyOCR.
 
 ### Weights
-You can download the model weights for the license plate detector here!
+You can download the model weights for the license plate detector here! https://drive.google.com/drive/folders/1STio9AvOODRUdLEI0lX2vh1NS0GDeUm5
